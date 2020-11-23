@@ -3,11 +3,11 @@
 /**
  * Register all actions and filters for the plugin
  *
- * @link       http://example.com
+ * @link       https://github.com/ianbrown80/dropshipping-plugin
  * @since      1.0.0
  *
- * @package    Plugin_Name
- * @subpackage Plugin_Name/includes
+ * @package    IB_Woo_Dropshipping
+ * @subpackage IB_Woo_Dropshipping/includes
  */
 
 /**
@@ -17,11 +17,11 @@
  * the plugin, and register them with the WordPress API. Call the
  * run function to execute the list of actions and filters.
  *
- * @package    Plugin_Name
- * @subpackage Plugin_Name/includes
+ * @package    IB_Woo_Dropshipping
+ * @subpackage IB_Woo_Dropshipping/includes
  * @author     Your Name <email@example.com>
  */
-class Plugin_Name_Loader {
+class IB_Woo_Dropshipping_Loader {
 
 	/**
 	 * The array of actions registered with WordPress.

@@ -5,11 +5,11 @@
  *
  * This file is used to markup the admin-facing aspects of the plugin.
  *
- * @link       http://example.com
+ * @link       https://github.com/ianbrown80/dropshipping-plugin
  * @since      1.0.0
  *
- * @package    Plugin_Name
- * @subpackage Plugin_Name/admin/partials
+ * @package    IB_Woo_Dropshipping
+ * @subpackage IB_Woo_Dropshipping/admin/partials
  */
 ?>
 
