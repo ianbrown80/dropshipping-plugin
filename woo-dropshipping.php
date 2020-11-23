@@ -21,7 +21,7 @@
  * Author URI:        https://github.com/ianbrown80
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
- * Text Domain:       woo-dropshipping
+ * Text Domain:       dropshipping-plugin
  * Domain Path:       /languages
  */
 

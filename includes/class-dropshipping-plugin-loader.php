@@ -19,7 +19,7 @@
  *
  * @package    IB_Woo_Dropshipping
  * @subpackage IB_Woo_Dropshipping/includes
- * @author     Your Name <email@example.com>
+ * @author     Ian Brown<brown.i18@sky.com>
  */
 class IB_Woo_Dropshipping_Loader {
 

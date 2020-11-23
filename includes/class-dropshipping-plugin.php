@@ -72,7 +72,7 @@ class IB_Woo_Dropshipping {
 		} else {
 			$this->version = '1.0.0';
 		}
-		$this->plugin_name = 'IB-woo-dropshipping-plugin';
+		$this->plugin_name = 'woo-dropshipping';
 
 		$this->load_dependencies();
 		$this->set_locale();
